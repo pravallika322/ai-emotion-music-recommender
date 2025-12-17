@@ -1,0 +1,21 @@
+# Virtual environment
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Dataset & training
+Dataset/
+train_model.py
+preprocessing.py
+realtime_emotion_music.py
+
+# System / IDE
+.streamlit/
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
